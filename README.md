@@ -1,5 +1,4 @@
-# Ollama-Exploration
-Exploring Open-Source LLMs with Ollama for CS5393
+# Exploring Open-Source LLMs with Ollama for CS5393
 ## Objective
 To gain hands-on experience with open-source Large Language Models (LLMs) using
 Ollama, and to develop a deeper understanding of their capabilities, limitations, and
