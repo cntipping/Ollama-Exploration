@@ -1,0 +1,109 @@
+To determine the distance and the age of a cluster by this method, we must take
+account of interstellar dust, which scatters light from the stars and makes them
+appear dimmer. Because blue light is more strongly scattered, the stars appear
+redder as well as dimmer. If we did not allow for the effects of dust, the isochrone
+would appear as the dotted line, which is clearly too blue at mV ≈ 5 to fit the
+observations. Similarly, if we had computed our isochrone for stars with much less
+than the solar metal abundance, it would not have been a good fit to the observed
+brightness and colors.
+Open clusters such as the Pleiades can contain up to several hundred stars,
+bound together by their mutual gravitational attraction. Table 2.2 shows that cluster
+luminosities generally fall in the range 100L⊙ to 30 000L⊙. The central density
+can be as high as 100L⊙ pc−3 but is frequently less; the core radius, where the
+surface brightness falls to half its central value, is typically a few parsecs. The stars
+have small random speeds, below 1 km s−1. The mass-to-light ratio is generally
+below unity; it increases with the cluster’s age as the luminous massive stars die.
+This ratio is hard to determine, because the diffuse outskirts of the cluster contain
+disproportionately many of the dim stars that contribute most of the cluster’s mass,
+but little of its light. We will see in Section 3.2 how this mass segregation can
+develop.
+Open clusters are quite often surrounded by gas and dust, and they always lie
+close to the plane of the disk. The youngest cluster in Table 2.2, NGC 3603, is
+2.2 The stars in the Galaxy 79
+near the Galactic center. Only∼1% of its visible light can reach us, so we must
+study it in the infrared. In other galaxies, we see open clusters in the spiral arms.
+Unfortunately we cannot see most of the Milky Way’s open clusters, because
+visible light does not travel well through the dust in the disk. We can make a fairly
+complete map of the clusters only within about 5 kpc of the Sun.
+Only about 5% of the 1200 or so known open clusters are more than 1 Gyr old,
+and most have ages less than 300 Myr; the nearby Hyades cluster is about 600 Myr
+old. Because most of a cluster’s light comes from its brightest stars, the color of
+its total or integrated light gives us a rough estimate of its age. For example, the
+Pleiades cluster has B− V= −0.05, close to the color of its most luminous stars
+that are still on the main sequence; see Table 1.4. As the massive stars die, and
+more of the cluster’s light comes from red giants, its color becomes redder. We can
+use observations of nearby clusters, and the theory of stellar evolution, to relate
+a cluster’s color to its age and metal abundance. When we observe star clusters
+in other galaxies, generally we measure only the integrated light. Comparing a
+cluster’s color with clusters in the Milky Way gives us an estimate of its age and
+the composition of its stars.
+Outside Gould’s Belt, most of the known open clusters younger than 300 Myr
+lie within 50 pc of the Galactic midplane. The older clusters, like the old stars
+of the thin disk, have a larger scale height, hz ≈ 375 pc. Clusters older than a
+gigayear are found mainly in the outer Galaxy, beyond the Sun’s orbit, where
+the gravitational forces are weaker. They are also relatively well populated and
+compact. Younger clusters are scattered more uniformly in Galactocentric radius;
+many have larger sizes or fewer members, and so are more fragile and prone to
+fall apart. Since the gravitational attraction of open clusters does not bind them
+together very strongly, they tend to be pulled apart as they pass through the spiral
+arms of the disk, and also to dissolve because of the gravitational pull of the
+cluster stars on each other. The old clusters that we see today are probably the
+robust survivors of a much larger population.
+NGC 3603 is a very young and massive cluster; in the central parsec are
+several O3 stars, each with L∼ 30 000L⊙. The stars are no more than 5 Myr old,
+and may be younger. Because its most massive stars are still shining, it is hugely
+more luminous than the other clusters in Table 2.2. It is a smaller version of the
+super-star-clusters formed in starburst galaxies. Here, starbirth is so vigorous that
+it will consume the galaxy’s supply of cool gas within∼300 Myr. (Recall from
+Section 2.2 that the Milky Way will not run out of gas for at least 2–3 Gyr.) We
+will discuss starbursts further in Section 7.1.
+Since elements heavier than helium are produced in the interiors of stars,
+they become more abundant as the Universe ages. Figure 2.9 showed that F stars
+older than 10 Gyr are much more likely to be iron-poor than are the younger stars.
+So we might expect that old open clusters, which formed earlier in the life of
+the Milky Way, should have lower metal abundances than the younger clusters.
+Surprisingly, this is not so; the old cluster NGC 6791 is as metal-rich as the Sun.
+80 Mapping our Milky Way
+Table 2.3 Some globular clusters in the Milky Way, and one belonging to the Fornax
+dwarf spheroidal galaxy
+Cluster d MV LV rc rt σr
+(kpc) [Fe/H] (mag) (103 L⊙) (pc) (pc) (km s−1)
+NGC 5139 ω Cen 5.2−1.6a
+−10.2 1100 4 70 20
+NGC 104 47 Tuc 4.5−0.71−9.5 500 0.5 50 11
+NGC 7078 M15 10.8−2.15−9.3 440 <0.01b 85 12
+NGC 6341 M92 8.5−2.15−8.3 180 0.5 35 5
+NGC 7099 M30 9.1−2.13−7.6 95 <0.1b 45 5
+NGC 6121 M4 1.73−1.2−7.2 60 0.5 25 4
+Pal 13 24.3−1.9−3.8 3 0.5 >50 0.6–0.9
+NGC 1049 Fornax 3 140−2.0−7.8 100 1.6 >50 9
+Note: d is distance from the Sun; [Fe/H]= log10(Z/Z⊙); rc is the core radius, rt is the tidal or
+truncation radius; and σr is the dispersion in the radial velocity Vr of stars in the central region.
+a 20%–30% of the stars of ω Centauri’s core are more metal-rich.
+b A collapsed core: see Section 3.2.
+There is considerable scatter in the chemical composition of open clusters at all
+ages. The buildup of metals in the Galaxy must have proceeded quite unevenly:
+some regions even recently were relatively poor in these elements. Open clusters
+further from the Galactic center are more likely to be metal-poor; the outer Milky
+Way seems to be enriching itself more slowly than the inner parts.
+The globular clusters are very different from open clusters; they contain far
+more stars, much more tightly packed. The brightest of the Milky Way’s 150 or
+so known globulars is ω Centauri; with L ≈ 106 L⊙ it contains about a million
+stars. In Figure 2.13 we see 47 Tucanae, another luminous cluster; Table 2.3 shows
+that dimmer clusters range down to 104 L⊙. The stellar density is roughly constant
+inside the core radius: rc ≈ 5 pc. The stars of globular clusters have higher random
+speeds σr than those of stars in the open clusters of Table 2.2. Globular clusters
+around Fornax, a small nearby dwarf galaxy, are very similar to those in the Milky
+Way. At some outer radius rt, usually beyond 30 pc, the density of stars drops
+sharply toward zero. This is the tidal radius or truncation radius. Stars beyond
+this point are so loosely bound to the cluster that they can be swept away by the
+‘tidal’ gravitational force of the Milky Way as the cluster orbits around it. We will
+study this process further in Section 4.1.
+None of the Milky Way’s globular clusters is younger than several gigayears,
+and most are much older. The two color–magnitude diagrams of Figure 2.14 show
+no young stars at all. The globular cluster 47 Tucanae is more than 10 Gyr old. Its
+stars have only 15% of the solar abundance of metals, so the main sequence ends
+with stars a little bluer and more luminous than the Sun. As in the Pleiades, the
+main sequence is very narrow because all the stars are the same age and have the
+same composition. Brighter stars fall on a narrow red giant branch, or on the hor-
+izontal branch with MV ≈ 0. Like the local disk stars that populate the red clump
